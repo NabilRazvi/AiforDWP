@@ -1,0 +1,19 @@
+[2026-08-05 18:06:52] [INFO] Starting startup program management script.
+[2026-08-05 18:06:52] [INFO] Parameter set: List
+[2026-08-05 18:06:52] [INFO] DryRun: True
+[2026-08-05 18:06:52] [INFO] WorkingRoot: C:\Users\labuser\Documents\Training\Day3\startup-work
+[2026-08-05 18:06:53] [INFO] Listed item: Name='SecurityHealth' | Type=Registry | Scope=LocalMachine | Location=HKLM:\Software\Microsoft\Windows\CurrentVersion\Run | Value='C:\Windows\system32\SecurityHealthSystray.exe'
+[2026-08-05 18:06:53] [INFO] Listed item: Name='AzureArcSetup' | Type=Registry | Scope=LocalMachine | Location=HKLM:\Software\Microsoft\Windows\CurrentVersion\Run | Value='C:\Windows\AzureArcSetup\Systray\AzureArcSysTray.exe'
+[2026-08-05 18:06:53] [INFO] Listed item: Name='desktop' | Type=StartupFolder | Scope=CurrentUser | Location=C:\Users\labuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup | Value='C:\Users\labuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini'
+[2026-08-05 18:06:53] [INFO] Listed item: Name='aw-qt' | Type=StartupFolder | Scope=Common | Location=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup | Value='C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\aw-qt.lnk'
+[2026-08-05 18:06:53] [INFO] Listed item: Name='desktop' | Type=StartupFolder | Scope=Common | Location=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup | Value='C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini'
+[2026-08-05 18:06:53] [INFO] Dry run list mode completed. No changes were made.
+[2026-08-05 18:06:53] [INFO] ================================================================================
+[2026-08-05 18:06:54] [INFO] Summary written to console.
+[2026-08-05 18:06:54] [INFO] Total startup items found: 5
+[2026-08-05 18:06:54] [INFO] Items listed count: 5
+[2026-08-05 18:06:54] [INFO] Items disabled count: 0
+[2026-08-05 18:06:54] [INFO] Items skipped count: 0
+[2026-08-05 18:06:54] [INFO] Errors encountered count: 0
+[2026-08-05 18:06:54] [INFO] Rollback file or backup location: Dry run only - no changes made. Backup roots: C:\Users\labuser\Documents\Training\Day3\startup-work\registry-backups ; C:\Users\labuser\Documents\Training\Day3\startup-work\startup-file-backups
+[2026-08-05 18:06:54] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\startup-audit-20260805-180652.log

@@ -1,0 +1,27 @@
+[2026-08-05 06:13:35] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\event-log-archive-cleanup-safe.ps1
+[2026-08-05 06:13:35] [INFO] Host: c261-13-1
+[2026-08-05 06:13:35] [INFO] User: labuser
+[2026-08-05 06:13:35] [INFO] Starting event log cleanup mode.
+[2026-08-05 06:13:35] [INFO] DryRun: True
+[2026-08-05 06:13:35] [INFO] OlderThanDays: 3
+[2026-08-05 06:13:35] [INFO] CutoffDate: 8/2/2026 6:13:35 AM
+[2026-08-05 06:13:35] [INFO] ArchiveDateFolder: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805
+[2026-08-05 06:13:35] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\Day3\eventlog-work\manifests\manifest-20260805-061335.csv
+[2026-08-05 06:13:36] [ERROR] Unable to load log 'Application,System': There is not an event log on the localhost computer that matches "Application,System".
+[2026-08-05 06:13:36] [INFO] DRY RUN total records that would be deleted: 0
+[2026-08-05 06:13:36] [INFO] ======================================================================
+[2026-08-05 06:13:36] [INFO] Summary for mode: Cleanup-DryRun
+[2026-08-05 06:13:36] [INFO] LogsEvaluated: 0
+[2026-08-05 06:13:36] [INFO] LogsTargeted: 0
+[2026-08-05 06:13:36] [INFO] LogsArchived: 0
+[2026-08-05 06:13:36] [INFO] LogsCleared: 0
+[2026-08-05 06:13:36] [INFO] LogsSkippedNoEvents: 0
+[2026-08-05 06:13:36] [INFO] LogsSkippedNotOldEnough: 0
+[2026-08-05 06:13:36] [INFO] LogsSkippedArchiveExists: 0
+[2026-08-05 06:13:36] [INFO] LogsFailed: 1
+[2026-08-05 06:13:36] [INFO] RecordsPlannedDelete: 0
+[2026-08-05 06:13:36] [INFO] RecordsDeleted: 0
+[2026-08-05 06:13:36] [INFO] RollbackFilesPlanned: 0
+[2026-08-05 06:13:36] [INFO] RollbackFilesRestored: 0
+[2026-08-05 06:13:36] [INFO] RollbackFilesMissing: 0
+[2026-08-05 06:13:36] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\eventlog-cleanup-20260805-061335.log

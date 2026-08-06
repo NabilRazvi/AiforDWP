@@ -1,0 +1,18 @@
+[2026-08-05 05:32:21] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\temp-file-cleanup-safe.ps1
+[2026-08-05 05:32:21] [INFO] Host: c261-13-1
+[2026-08-05 05:32:21] [INFO] User: labuser
+[2026-08-05 05:32:21] [INFO] Starting rollback mode.
+[2026-08-05 05:32:21] [INFO] Rollback manifest: C:\Users\labuser\Documents\Training\Day3\cleanup-work\manifests\manifest-YYYYMMDD-HHMMSS.csv
+[2026-08-05 05:32:21] [ERROR] Fatal error: RollbackManifestPath still contains the README placeholder YYYYMMDD-HHMMSS. Replace it with an actual manifest file name from Day3\cleanup-work\manifests.
+[2026-08-05 05:32:21] [INFO] ======================================================================
+[2026-08-05 05:32:21] [INFO] Summary for mode: Aborted
+[2026-08-05 05:32:21] [INFO] FilesScanned: 0
+[2026-08-05 05:32:21] [INFO] CandidateFiles: 0
+[2026-08-05 05:32:21] [INFO] FilesMovedToRollback: 0
+[2026-08-05 05:32:21] [INFO] FilesRestored: 0
+[2026-08-05 05:32:21] [INFO] FilesSkippedLocked: 0
+[2026-08-05 05:32:21] [INFO] FilesSkippedMissing: 0
+[2026-08-05 05:32:21] [INFO] FilesSkippedInUse: 0
+[2026-08-05 05:32:21] [INFO] FilesSkippedAlreadyExists: 0
+[2026-08-05 05:32:21] [INFO] FilesFailed: 0
+[2026-08-05 05:32:21] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\temp-cleanup-20260805-053221.log

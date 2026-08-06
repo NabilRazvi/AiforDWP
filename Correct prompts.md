@@ -1,0 +1,18 @@
+#Wrong - "write something for the user about their email"
+Correct - You are a DWP service-desk analyst. A user has contacted the service desk regarding an email-related issue. Based on the information provided, create a concise customer-facing response that: acknowledges the issue, summarises the current status, identifies any actions required from the user, and explains the next step. Do not assume facts that have not been provided. Return only the message to the user.You are a DWP service-desk analyst. A user has contacted the service desk regarding an email-related issue. Based on the information provided, create a concise customer-facing response that: acknowledges the issue, summarises the current status, identifies any actions required from the user, and explains the next step. Do not assume facts that have not been provided. Return only the message to the user.
+
+#Wrong - "you are a helpful assistant who always gives detailed, accurate, professional, well-structured, clear and concise answers. Tell me about Intune."
+
+Correct- You are a workplace technology support analyst. Explain Microsoft Intune to a newly hired IT support engineer. Include: purpose, key capabilities, common device management scenarios, and how Intune is typically used in a managed Windows environment. Keep the explanation under 250 words and focus on practical understanding rather than marketing terminology. Return only the explanation.
+
+#Wrong - "A user says their laptop is slow. What is the problem and fix it."
+Correct - You are a DWP service-desk analyst. A user reports that their managed Windows 11 laptop is running slowly. Based only on that information, provide: Known facts; Missing information to gather; Five likely causes ranked by probability; Recommended first diagnostic action for each cause. Do not assume the root cause is known. Return only the structured analysis.
+
+#Wrong - List every possible reason a Windows 11 device might have any kind of issue connecting to any kind of network resource
+Correct - You are a DWP support engineer creating a troubleshooting guide. Categorise the most common causes of Windows 11 connectivity issues when accessing network resources in an enterprise environment. Include these categories: Physical Connectivity, Network Configuration, Authentication & Access, VPN, DNS, Endpoint Security, Device Configuration, and Service Outages. For each category provide representative causes and the first validation step. Focus on practical troubleshooting scenarios rather than exhaustive theoretical possibilities. Return only the structured guide.
+
+#Wrong - Rewrite this so it sounds better: 'Device non-compliant due to BitLocker not enabled. Remediation applied. Compliance restored
+Correct - You are assisting with technical communication. Rewrite the following status update in a professional, service-desk friendly tone suitable for ticket work notes. Preserve the original meaning and do not add new information.
+
+#Wrong - You are a senior DWP engineer with 20 years experience. A user cannot log in. Solve this completely and give me the guaranteed fix
+Correct - You are a DWP service-desk analyst. A user reports that they cannot log in to their device. The root cause is unknown. Produce a structured triage summary containing: Summary; Impact; Known facts; Information required; Most likely causes ranked by probability; Recommended initial troubleshooting steps; Escalation criteria. Do not claim to know the root cause or guarantee a resolution. Clearly identify assumptions as "to confirm". Return only the triage summary.

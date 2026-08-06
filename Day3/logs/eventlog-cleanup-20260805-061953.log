@@ -1,0 +1,29 @@
+[2026-08-05 06:19:53] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\event-log-archive-cleanup-safe.ps1
+[2026-08-05 06:19:53] [INFO] Host: c261-13-1
+[2026-08-05 06:19:53] [INFO] User: labuser
+[2026-08-05 06:19:53] [INFO] Starting cleanup mode.
+[2026-08-05 06:19:53] [INFO] DryRun: True
+[2026-08-05 06:19:53] [INFO] OlderThanDays: 3
+[2026-08-05 06:19:53] [INFO] CutoffDate: 8/2/2026 6:19:53 AM
+[2026-08-05 06:19:53] [INFO] ArchiveDateFolder: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805
+[2026-08-05 06:19:53] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\Day3\eventlog-work\manifests\manifest-20260805-061953.csv
+[2026-08-05 06:19:53] [INFO] DRY RUN - would archive and clear 'Application' with 331 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Application.evtx
+[2026-08-05 06:19:53] [INFO] DRY RUN - would archive and clear 'System' with 2035 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\System.evtx
+[2026-08-05 06:19:53] [INFO] DRY RUN total records that would be deleted: 2366
+[2026-08-05 06:19:54] [INFO] ======================================================================
+[2026-08-05 06:19:54] [INFO] Summary for mode: Cleanup-DryRun
+[2026-08-05 06:19:54] [INFO] LogsEvaluated: 2
+[2026-08-05 06:19:54] [INFO] LogsTargeted: 2
+[2026-08-05 06:19:54] [INFO] LogsArchived: 0
+[2026-08-05 06:19:54] [INFO] LogsCleared: 0
+[2026-08-05 06:19:54] [INFO] LogsSkippedNoEvents: 0
+[2026-08-05 06:19:54] [INFO] LogsSkippedNotOldEnough: 0
+[2026-08-05 06:19:54] [INFO] LogsSkippedArchiveExists: 0
+[2026-08-05 06:19:54] [INFO] LogsSkippedInaccessible: 0
+[2026-08-05 06:19:54] [INFO] LogsFailed: 0
+[2026-08-05 06:19:54] [INFO] RecordsPlannedDelete: 2366
+[2026-08-05 06:19:54] [INFO] RecordsDeleted: 0
+[2026-08-05 06:19:54] [INFO] RollbackFilesPlanned: 0
+[2026-08-05 06:19:54] [INFO] RollbackFilesRestored: 0
+[2026-08-05 06:19:54] [INFO] RollbackFilesMissing: 0
+[2026-08-05 06:19:54] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\eventlog-cleanup-20260805-061953.log

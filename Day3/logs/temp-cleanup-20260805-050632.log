@@ -1,0 +1,24 @@
+[2026-08-05 05:06:32] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\temp-file-cleanup-safe.ps1
+[2026-08-05 05:06:32] [INFO] Host: c261-13-1
+[2026-08-05 05:06:32] [INFO] User: labuser
+[2026-08-05 05:06:32] [INFO] Starting cleanup mode.
+[2026-08-05 05:06:32] [INFO] DryRun: True
+[2026-08-05 05:06:32] [INFO] OlderThanDays: 3650
+[2026-08-05 05:06:32] [INFO] CutoffDate: 8/7/2016 5:06:32 AM
+[2026-08-05 05:06:32] [INFO] RollbackFolder: C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-050632
+[2026-08-05 05:06:32] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\Day3\cleanup-work\manifests\manifest-20260805-050632.csv
+[2026-08-05 05:06:32] [INFO] Scanning target path: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 05:06:32] [INFO] Scanning target path: C:\Windows\Temp
+[2026-08-05 05:06:32] [INFO] No candidate files found. No manifest written.
+[2026-08-05 05:06:32] [INFO] ======================================================================
+[2026-08-05 05:06:32] [INFO] Summary for mode: Cleanup-DryRun
+[2026-08-05 05:06:32] [INFO] FilesSkippedLocked: 0
+[2026-08-05 05:06:32] [INFO] FilesFailed: 0
+[2026-08-05 05:06:32] [INFO] FilesSkippedAlreadyExists: 0
+[2026-08-05 05:06:32] [INFO] FilesScanned: 0
+[2026-08-05 05:06:32] [INFO] FilesSkippedMissing: 0
+[2026-08-05 05:06:32] [INFO] FilesRestored: 0
+[2026-08-05 05:06:32] [INFO] FilesSkippedInUse: 0
+[2026-08-05 05:06:32] [INFO] FilesMovedToRollback: 0
+[2026-08-05 05:06:32] [INFO] CandidateFiles: 0
+[2026-08-05 05:06:32] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\temp-cleanup-20260805-050632.log

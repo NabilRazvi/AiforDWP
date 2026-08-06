@@ -1,0 +1,23 @@
+[2026-08-05 18:25:51] [INFO] Starting disk health reporter in strict read-only mode.
+[2026-08-05 18:25:51] [INFO] Safety guard: script does not call Optimize-Volume, defrag.exe, Repair-Volume, Clear-Disk, or Format-Volume.
+[2026-08-05 18:25:51] [INFO] OutputRoot: C:\Users\labuser\Documents\Training\Day3
+[2026-08-05 18:25:51] [INFO] LogFile: C:\Users\labuser\Documents\Training\Day3\logs\disk-health-reporter-20260805-182551.log
+[2026-08-05 18:25:51] [INFO] CsvFile: C:\Users\labuser\Documents\Training\Day3\reports\disk-health-report-20260805-182551.csv
+[2026-08-05 18:25:51] [INFO] OptimizationEventLookbackDays: 30
+[2026-08-05 18:25:51] [INFO] SkipOptimizationEventLookup: True
+[2026-08-05 18:25:56] [INFO] Loaded physical disk cache entries: 2
+[2026-08-05 18:25:56] [INFO] Detected local disks: 2
+[2026-08-05 18:25:56] [INFO] Collecting disk data for drive C:
+[2026-08-05 18:25:57] [INFO] Completed drive C: classification Healthy.
+[2026-08-05 18:25:57] [INFO] Collecting disk data for drive D:
+[2026-08-05 18:25:57] [INFO] Completed drive D: classification Healthy.
+[2026-08-05 18:25:57] [INFO] CSV report exported successfully: C:\Users\labuser\Documents\Training\Day3\reports\disk-health-report-20260805-182551.csv
+[2026-08-05 18:25:57] [INFO] ========================================================================
+[2026-08-05 18:25:57] [INFO] Run summary:
+[2026-08-05 18:25:57] [INFO] Total disks checked: 2
+[2026-08-05 18:25:57] [INFO] Healthy disks: 2
+[2026-08-05 18:25:57] [INFO] Warning or unhealthy disks: 0
+[2026-08-05 18:25:57] [INFO] Skipped checks: 2
+[2026-08-05 18:25:57] [INFO] Errors: 0
+[2026-08-05 18:25:57] [INFO] CSV file: C:\Users\labuser\Documents\Training\Day3\reports\disk-health-report-20260805-182551.csv
+[2026-08-05 18:25:57] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\disk-health-reporter-20260805-182551.log

@@ -1,0 +1,28 @@
+[2026-08-05 05:33:49] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\temp-file-cleanup-safe.ps1
+[2026-08-05 05:33:49] [INFO] Host: c261-13-1
+[2026-08-05 05:33:49] [INFO] User: labuser
+[2026-08-05 05:33:49] [INFO] Starting cleanup mode.
+[2026-08-05 05:33:49] [INFO] DryRun: True
+[2026-08-05 05:33:49] [INFO] OlderThanDays: 0
+[2026-08-05 05:33:49] [INFO] CutoffDate: 8/5/2026 5:33:49 AM
+[2026-08-05 05:33:49] [INFO] RollbackFolder: C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-053349
+[2026-08-05 05:33:49] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\Day3\cleanup-work\manifests\manifest-20260805-053349.csv
+[2026-08-05 05:33:49] [INFO] Scanning target path: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 05:33:49] [WARN] Locked or unavailable, skipped: C:\Users\labuser\AppData\Local\Temp\2\5435a748-99b3-4482-a652-a925dfe6c629.tmp
+[2026-08-05 05:33:49] [INFO] DRY RUN - would move: C:\Users\labuser\AppData\Local\Temp\2\exthost-3347a8.cpuprofile -> C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-053349\C$\\Users\\labuser\\AppData\\Local\\Temp\\2\\exthost-3347a8.cpuprofile
+[2026-08-05 05:33:49] [INFO] DRY RUN - would move: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat -> C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-053349\C$\\Users\\labuser\\AppData\\Local\\Temp\\2\\gen_py\\3.9\\dicts.dat
+[2026-08-05 05:33:49] [INFO] DRY RUN - would move: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py -> C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-053349\C$\\Users\\labuser\\AppData\\Local\\Temp\\2\\gen_py\\3.9\\__init__.py
+[2026-08-05 05:33:49] [INFO] Scanning target path: C:\Windows\Temp
+[2026-08-05 05:33:49] [INFO] Dry run completed. No manifest written.
+[2026-08-05 05:33:49] [INFO] ======================================================================
+[2026-08-05 05:33:49] [INFO] Summary for mode: Cleanup-DryRun
+[2026-08-05 05:33:49] [INFO] FilesScanned: 4
+[2026-08-05 05:33:49] [INFO] CandidateFiles: 4
+[2026-08-05 05:33:49] [INFO] FilesMovedToRollback: 0
+[2026-08-05 05:33:49] [INFO] FilesRestored: 0
+[2026-08-05 05:33:49] [INFO] FilesSkippedLocked: 1
+[2026-08-05 05:33:49] [INFO] FilesSkippedMissing: 0
+[2026-08-05 05:33:49] [INFO] FilesSkippedInUse: 0
+[2026-08-05 05:33:49] [INFO] FilesSkippedAlreadyExists: 0
+[2026-08-05 05:33:49] [INFO] FilesFailed: 0
+[2026-08-05 05:33:49] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\temp-cleanup-20260805-053349.log

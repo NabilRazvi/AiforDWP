@@ -1,0 +1,401 @@
+[2026-08-05 06:16:55] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\event-log-archive-cleanup-safe.ps1
+[2026-08-05 06:16:55] [INFO] Host: c261-13-1
+[2026-08-05 06:16:55] [INFO] User: labuser
+[2026-08-05 06:16:55] [INFO] Starting event log cleanup mode.
+[2026-08-05 06:16:55] [INFO] DryRun: True
+[2026-08-05 06:16:55] [INFO] OlderThanDays: 3
+[2026-08-05 06:16:55] [INFO] CutoffDate: 8/2/2026 6:16:55 AM
+[2026-08-05 06:16:55] [INFO] ArchiveDateFolder: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805
+[2026-08-05 06:16:55] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\Day3\eventlog-work\manifests\manifest-20260805-061655.csv
+[2026-08-05 06:16:57] [WARN] Skipping inaccessible log 'Microsoft-Windows-ASN1/Operational': Could not retrieve information about the Microsoft-Windows-ASN1/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:58] [WARN] Skipping inaccessible log 'Microsoft-Windows-AppXDeploymentServer/Restricted': Could not retrieve information about the Microsoft-Windows-AppXDeploymentServer/Restricted log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:59] [WARN] Skipping inaccessible log 'Microsoft-Windows-BranchCacheSMB/Analytic': Could not retrieve information about the Microsoft-Windows-BranchCacheSMB/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:59] [WARN] Skipping inaccessible log 'Microsoft-Windows-CAPI2/Operational': Could not retrieve information about the Microsoft-Windows-CAPI2/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:59] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-BCRYPT/Analytic': Could not retrieve information about the Microsoft-Windows-Crypto-BCRYPT/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:59] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-CNG/Analytic': Could not retrieve information about the Microsoft-Windows-Crypto-CNG/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:59] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-DSSEnh/Analytic': Could not retrieve information about the Microsoft-Windows-Crypto-DSSEnh/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:59] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-NCrypt/CertInUse': Could not retrieve information about the Microsoft-Windows-Crypto-NCrypt/CertInUse log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:59] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-NCrypt/KeyMgmt': Could not retrieve information about the Microsoft-Windows-Crypto-NCrypt/KeyMgmt log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:00] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-NCrypt/Operational': Could not retrieve information about the Microsoft-Windows-Crypto-NCrypt/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:00] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-RNG/Analytic': Could not retrieve information about the Microsoft-Windows-Crypto-RNG/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:00] [WARN] Skipping inaccessible log 'Microsoft-Windows-Crypto-RSAEnh/Analytic': Could not retrieve information about the Microsoft-Windows-Crypto-RSAEnh/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:01] [WARN] Skipping inaccessible log 'Microsoft-Windows-Disk/Operational': Could not retrieve information about the Microsoft-Windows-Disk/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:01] [WARN] Skipping inaccessible log 'Microsoft-Windows-DxgKrnl-Admin': Could not retrieve information about the Microsoft-Windows-DxgKrnl-Admin log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:01] [WARN] Skipping inaccessible log 'Microsoft-Windows-DxgKrnl-Operational': Could not retrieve information about the Microsoft-Windows-DxgKrnl-Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:02] [WARN] Skipping inaccessible log 'Microsoft-Windows-GroupPolicy/Operational': Could not retrieve information about the Microsoft-Windows-GroupPolicy/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:02] [WARN] Skipping inaccessible log 'Microsoft-Windows-Help/Operational': Could not retrieve information about the Microsoft-Windows-Help/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:02] [WARN] Skipping inaccessible log 'Microsoft-Windows-Hyper-V-Hypervisor-Admin': Could not retrieve information about the Microsoft-Windows-Hyper-V-Hypervisor-Admin log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:02] [WARN] Skipping inaccessible log 'Microsoft-Windows-Hyper-V-Hypervisor-Analytic': Could not retrieve information about the Microsoft-Windows-Hyper-V-Hypervisor-Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:02] [WARN] Skipping inaccessible log 'Microsoft-Windows-Hyper-V-Hypervisor-Operational': Could not retrieve information about the Microsoft-Windows-Hyper-V-Hypervisor-Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:03] [WARN] Skipping inaccessible log 'Microsoft-Windows-Kernel-LiveDump/Analytic': Could not retrieve information about the Microsoft-Windows-Kernel-LiveDump/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:03] [WARN] Skipping inaccessible log 'Microsoft-Windows-Kernel-LiveDump/Operational': Could not retrieve information about the Microsoft-Windows-Kernel-LiveDump/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:04] [WARN] Skipping inaccessible log 'Microsoft-Windows-Kernel-ShimEngine/Debug': Could not retrieve information about the Microsoft-Windows-Kernel-ShimEngine/Debug log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:04] [WARN] Skipping inaccessible log 'Microsoft-Windows-Kernel-ShimEngine/Diagnostic': Could not retrieve information about the Microsoft-Windows-Kernel-ShimEngine/Diagnostic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:04] [WARN] Skipping inaccessible log 'Microsoft-Windows-Kernel-ShimEngine/Operational': Could not retrieve information about the Microsoft-Windows-Kernel-ShimEngine/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:04] [WARN] Skipping inaccessible log 'Microsoft-Windows-LiveId/Analytic': Could not retrieve information about the Microsoft-Windows-LiveId/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:04] [WARN] Skipping inaccessible log 'Microsoft-Windows-LiveId/Operational': Could not retrieve information about the Microsoft-Windows-LiveId/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:05] [WARN] Skipping inaccessible log 'Microsoft-Windows-NetworkProvider/Operational': Could not retrieve information about the Microsoft-Windows-NetworkProvider/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:05] [WARN] Skipping inaccessible log 'Microsoft-Windows-OfflineFiles/Analytic': Could not retrieve information about the Microsoft-Windows-OfflineFiles/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:05] [WARN] Skipping inaccessible log 'Microsoft-Windows-OfflineFiles/Debug': Could not retrieve information about the Microsoft-Windows-OfflineFiles/Debug log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:05] [WARN] Skipping inaccessible log 'Microsoft-Windows-OfflineFiles/SyncLog': Could not retrieve information about the Microsoft-Windows-OfflineFiles/SyncLog log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:06] [WARN] Skipping inaccessible log 'Microsoft-Windows-Privacy-Auditing/Operational': Could not retrieve information about the Microsoft-Windows-Privacy-Auditing/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBClient/Analytic': Could not retrieve information about the Microsoft-Windows-SMBClient/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBClient/Operational': Could not retrieve information about the Microsoft-Windows-SMBClient/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBServer/Analytic': Could not retrieve information about the Microsoft-Windows-SMBServer/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBServer/Audit': Could not retrieve information about the Microsoft-Windows-SMBServer/Audit log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBServer/Connectivity': Could not retrieve information about the Microsoft-Windows-SMBServer/Connectivity log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBServer/Operational': Could not retrieve information about the Microsoft-Windows-SMBServer/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBServer/Performance': Could not retrieve information about the Microsoft-Windows-SMBServer/Performance log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:07] [WARN] Skipping inaccessible log 'Microsoft-Windows-SMBServer/Security': Could not retrieve information about the Microsoft-Windows-SMBServer/Security log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-SmbClient/Audit': Could not retrieve information about the Microsoft-Windows-SmbClient/Audit log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-SmbClient/Connectivity': Could not retrieve information about the Microsoft-Windows-SmbClient/Connectivity log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-SmbClient/Security': Could not retrieve information about the Microsoft-Windows-SmbClient/Security log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-StateRepository/Restricted': Could not retrieve information about the Microsoft-Windows-StateRepository/Restricted log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-StorPort/Operational': Could not retrieve information about the Microsoft-Windows-StorPort/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Disk/Admin': Could not retrieve information about the Microsoft-Windows-Storage-Disk/Admin log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Disk/Analytic': Could not retrieve information about the Microsoft-Windows-Storage-Disk/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Disk/Debug': Could not retrieve information about the Microsoft-Windows-Storage-Disk/Debug log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Disk/Diagnose': Could not retrieve information about the Microsoft-Windows-Storage-Disk/Diagnose log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Disk/Operational': Could not retrieve information about the Microsoft-Windows-Storage-Disk/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Storport/Analytic': Could not retrieve information about the Microsoft-Windows-Storage-Storport/Analytic log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Storport/Diagnose': Could not retrieve information about the Microsoft-Windows-Storage-Storport/Diagnose log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Storport/Health': Could not retrieve information about the Microsoft-Windows-Storage-Storport/Health log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:09] [WARN] Skipping inaccessible log 'Microsoft-Windows-Storage-Storport/Operational': Could not retrieve information about the Microsoft-Windows-Storage-Storport/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:11] [WARN] Skipping inaccessible log 'Microsoft-Windows-UAC-FileVirtualization/Operational': Could not retrieve information about the Microsoft-Windows-UAC-FileVirtualization/Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:12] [WARN] Skipping inaccessible log 'Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurity': Could not retrieve information about the Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurity log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:12] [WARN] Skipping inaccessible log 'Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurityVerbose': Could not retrieve information about the Microsoft-Windows-Windows Firewall With Advanced Security/ConnectionSecurityVerbose log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:13] [WARN] Skipping inaccessible log 'Network Isolation Operational': Could not retrieve information about the Network Isolation Operational log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:13] [WARN] Skipping inaccessible log 'Security': Could not retrieve information about the Security log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:17:13] [INFO] DRY RUN - would archive and clear log 'Application' with 331 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Application.evtx
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: HardwareEvents
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Internet Explorer
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Key Management Service
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-AppV-Client/Admin
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-AppV-Client/Operational
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-AppV-Client/Virtual Applications
+[2026-08-05 06:17:13] [INFO] DRY RUN - would archive and clear log 'Microsoft-Client-Licensing-Platform/Admin' with 56 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Client-Licensing-Platform_Admin.evtx
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-Rdms-UI/Admin
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-Rdms-UI/Operational
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-ServerCore-ShellLauncher/Admin
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-System-Diagnostics-DiagnosticInvoker/Operational
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-User Experience Virtualization-Agent Driver/Operational
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-User Experience Virtualization-App Agent/Operational
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-User Experience Virtualization-IPC/Operational
+[2026-08-05 06:17:13] [INFO] Skipping log with no events: Microsoft-User Experience Virtualization-SQM Uploader/Operational
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-AAD/Operational' with 19 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-AAD_Operational.evtx
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-All-User-Install-Agent/Admin
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-AllJoyn/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-AppHost/Admin
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-AppID/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-AppLocker/EXE and DLL
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-AppLocker/MSI and Script
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-AppLocker/Packaged app-Deployment
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-AppLocker/Packaged app-Execution
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-AppModel-Runtime/Admin' with 293 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-AppModel-Runtime_Admin.evtx
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-AppReadiness/Admin' with 261 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-AppReadiness_Admin.evtx
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-AppReadiness/Operational' with 18 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-AppReadiness_Operational.evtx
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-AppXDeployment/Operational' with 24 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-AppXDeployment_Operational.evtx
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-AppXDeploymentServer/Operational' with 2169 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-AppXDeploymentServer_Operational.evtx
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-ApplicabilityEngine/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Application Server-Applications/Admin
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Application Server-Applications/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Application-Experience/Program-Compatibility-Assistant
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Application-Experience/Program-Compatibility-Troubleshooter
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Application-Experience/Program-Inventory
+[2026-08-05 06:17:14] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Application-Experience/Program-Telemetry
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Application-Experience/Steps-Recorder
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-AppxPackaging/Operational' with 67 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-AppxPackaging_Operational.evtx
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Audio/CaptureMonitor
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Audio/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Audio/PlaybackManager
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Authentication User Interface/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-BackgroundTaskInfrastructure/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Backup
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-BestPractices/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Biometrics/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-BitLocker-DrivePreparationTool/Admin
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-BitLocker-DrivePreparationTool/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-BitLocker/BitLocker Management
+[2026-08-05 06:17:14] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Bits-Client/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Bluetooth-BthLEPrepairing/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Bluetooth-MTPEnum/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-BranchCacheSMB/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-CertificateServices-Deployment/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-CertificateServicesClient-Lifecycle-System/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-CertificateServicesClient-Lifecycle-User/Operational
+[2026-08-05 06:17:14] [INFO] Skipping log with no events: Microsoft-Windows-Cleanmgr/Diagnostic
+[2026-08-05 06:17:14] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-CloudStore/Operational' with 282 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-CloudStore_Operational.evtx
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-CodeIntegrity/Operational' with 9 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-CodeIntegrity_Operational.evtx
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Compat-Appraiser/Operational
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Containers-BindFlt/Operational' with 9 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Containers-BindFlt_Operational.evtx
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Containers-Wcifs/Operational' with 9 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Containers-Wcifs_Operational.evtx
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-CoreApplication/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-CorruptedFileRecovery-Client/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-CorruptedFileRecovery-Server/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Crypto-DPAPI/BackUpKeySvc
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Crypto-DPAPI/Operational' with 60 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Crypto-DPAPI_Operational.evtx
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DAL-Provider/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DSC/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DSC/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log not older than cutoff: Microsoft-Windows-DataIntegrityScan/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DataIntegrityScan/CrashRecovery
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DateTimeControlPanel/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DeviceGuard/Operational
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Admin' with 1 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider_Admin.evtx
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Autopilot
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider/Operational
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-DeviceSetupManager/Admin' with 139 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-DeviceSetupManager_Admin.evtx
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-DeviceSetupManager/Operational' with 27 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-DeviceSetupManager_Operational.evtx
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DeviceSync/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DeviceUpdateAgent/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Devices-Background/Operational
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Dhcp-Client/Admin' with 1 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Dhcp-Client_Admin.evtx
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Dhcpv6-Client/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Diagnosis-DPS/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Diagnosis-PCW/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Diagnosis-PLA/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Diagnosis-Scheduled/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Diagnosis-Scripted/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Diagnosis-Scripted/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Diagnostics-Networking/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DirectoryServices-Deployment/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DiskDiagnostic/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DiskDiagnosticDataCollector/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-DiskDiagnosticResolver/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EDP-Application-Learning/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EDP-Audit-Regular/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EDP-Audit-TCB/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EapHost/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EapMethods-RasChap/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EapMethods-RasTls/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EapMethods-Sim/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EapMethods-Ttls/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EnhancedStorage-EhStorClass/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EnrollmentPolicyWebService/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EnrollmentWebService/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-EventCollector/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-FMS/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Fault-Tolerant-Heap/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-FeatureConfiguration/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-FederationServices-Deployment/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-FileServices-ServerManager-EventProvider/Admin
+[2026-08-05 06:17:15] [INFO] Skipping log not older than cutoff: Microsoft-Windows-FileServices-ServerManager-EventProvider/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log not older than cutoff: Microsoft-Windows-FileShareShadowCopyProvider/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Folder Redirection/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-Forwarding/Operational
+[2026-08-05 06:17:15] [INFO] Skipping log with no events: Microsoft-Windows-GenericRoaming/Admin
+[2026-08-05 06:17:15] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-HelloForBusiness/Operational' with 30 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-HelloForBusiness_Operational.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-HomeGroup Control Panel/Operational
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Hyper-V-Guest-Drivers/Admin' with 18 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Hyper-V-Guest-Drivers_Admin.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-IKE/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-IdCtrls/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-International-RegionalOptionsControlPanel/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Iphlpsvc/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-KdsSvc/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-ApphelpCache/Operational
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Kernel-Boot/Operational' with 45 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Kernel-Boot_Operational.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-CPU-Starvation/Operational
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Kernel-Cache/Operational' with 295 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Kernel-Cache_Operational.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-Dump/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-EventTracing/Admin
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Kernel-IO/Operational' with 1860 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Kernel-IO_Operational.evtx
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Kernel-PnP/Configuration' with 143 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Kernel-PnP_Configuration.evtx
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Kernel-PnP/Device Management' with 68 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Kernel-PnP_Device_Management.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-PnP/Driver Watchdog
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-Power/Thermal-Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-StoreMgr/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-WDI/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Kernel-WHEA/Errors
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Kernel-WHEA/Operational' with 38 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Kernel-WHEA_Operational.evtx
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Known Folders API Service' with 56 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Known_Folders_API_Service.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-LAPS/Operational
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-LanguagePackSetup/Operational' with 4 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-LanguagePackSetup_Operational.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-MUI/Admin
+[2026-08-05 06:17:16] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-MUI/Operational' with 12 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-MUI_Operational.evtx
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-ManagementTools-RegistryProvider/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-ManagementTools-TaskManagerProvider/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-MemoryDiagnostics-Results/Debug
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-MiStreamProvider/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-Mprddm/Operational
+[2026-08-05 06:17:16] [INFO] Skipping log with no events: Microsoft-Windows-MsLbfoProvider/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log not older than cutoff: Microsoft-Windows-NCSI/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-NTLM/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-NdisImPlatform/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-NetworkLocationWizard/Operational
+[2026-08-05 06:17:17] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-NetworkProfile/Operational' with 47 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-NetworkProfile_Operational.evtx
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-NlaSvc/Operational
+[2026-08-05 06:17:17] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Ntfs/Operational' with 143 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Ntfs_Operational.evtx
+[2026-08-05 06:17:17] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Ntfs/WHC' with 9 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Ntfs_WHC.evtx
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-OOBE-Machine-DUI/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-OfflineFiles/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PCRPF/PCRPF
+[2026-08-05 06:17:17] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Partition/Diagnostic' with 15 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Partition_Diagnostic.evtx
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PerceptionRuntime/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PerceptionSensorDataService/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PersistentMemory-Nvdimm/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PersistentMemory-PmemDisk/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PersistentMemory-ScmBus/Certification
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PersistentMemory-ScmBus/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-Policy/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PowerShell-DesiredStateConfiguration-FileDownloadManager/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PowerShell/Admin
+[2026-08-05 06:17:17] [INFO] Skipping log not older than cutoff: Microsoft-Windows-PowerShell/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PrintBRM/Admin
+[2026-08-05 06:17:17] [INFO] Skipping log not older than cutoff: Microsoft-Windows-PrintService/Admin
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-Program-Compatibility-Assistant/CompatAfterUpgrade
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-PushNotification-Platform/Admin
+[2026-08-05 06:17:17] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-PushNotification-Platform/Operational' with 272 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-PushNotification-Platform_Operational.evtx
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-ReFS/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-ReadyBoost/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-Regsvr32/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-RemoteApp and Desktop Connections/Admin
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-RemoteApp and Desktop Connections/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Admin
+[2026-08-05 06:17:17] [INFO] Skipping log not older than cutoff: Microsoft-Windows-RemoteDesktopServices-RdpCoreTS/Operational
+[2026-08-05 06:17:17] [INFO] Skipping log with no events: Microsoft-Windows-RemoteDesktopServices-SessionServices/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Resource-Exhaustion-Detector/Operational' with 28 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Resource-Exhaustion-Detector_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Resource-Exhaustion-Resolver/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-RestartManager/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SENSE/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SMBDirect/Admin
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SMBWitnessClient/Admin
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SMBWitnessClient/Informational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SearchUI/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-Adminless/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-Audit-Configuration-Client/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-EnterpriseData-FileRevocationManager/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-LessPrivilegedAppContainer/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Security-Mitigations/KernelMode' with 13 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Security-Mitigations_KernelMode.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-Mitigations/UserMode
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-Netlogon/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-SPP-UX-GenuineCenter-Logging/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Security-SPP-UX-Notifications/ActionCenter' with 3 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Security-SPP-UX-Notifications_ActionCenter.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Security-UserConsentVerifier/Audit
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SecurityMitigationsBroker/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SenseIR/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-ServerManager-ConfigureSMRemoting/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-ServerManager-DeploymentProvider/Operational' with 136 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-ServerManager-DeploymentProvider_Operational.evtx
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-ServerManager-MgmtProvider/Operational' with 476 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-ServerManager-MgmtProvider_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-ServerManager-MultiMachine/Admin
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-ServerManager-MultiMachine/Operational' with 721 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-ServerManager-MultiMachine_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Shell-ConnectedAccountState/ActionCenter
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Shell-Core/ActionCenter
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Shell-Core/AppDefaults' with 730 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Shell-Core_AppDefaults.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Shell-Core/LogonTasksChannel
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Shell-Core/Operational' with 1168 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Shell-Core_Operational.evtx
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-ShellCommon-StartLayoutPopulation/Operational' with 122 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-ShellCommon-StartLayoutPopulation_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SilProvider/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SmartCard-Audit/Authentication
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SmartCard-DeviceEnum/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SmartCard-TPM-VCard-Module/Admin
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SmartCard-TPM-VCard-Module/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-StateRepository/Operational' with 468 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-StateRepository_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Storage-ClassPnP/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-Storage-Tiering/Admin
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageManagement-PartUtil/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log not older than cutoff: Microsoft-Windows-StorageManagement/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSettings/Diagnostic
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSpaces-Api/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSpaces-Driver/Diagnostic
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-StorageSpaces-Driver/Operational' with 15 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-StorageSpaces-Driver_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSpaces-ManagementAgent/WHC
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSpaces-Parser/Diagnostic
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSpaces-Parser/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSpaces-SpaceManager/Diagnostic
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-StorageSpaces-SpaceManager/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Store/Operational' with 343 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Store_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log not older than cutoff: Microsoft-Windows-Storsvc/Diagnostic
+[2026-08-05 06:17:18] [WARN] Unable to read oldest event for 'Microsoft-Windows-SystemDataArchiver/Diagnostic'. Skipping. The resource loader failed to find MUI file
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-SystemSettingsThreshold/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-TCPIP/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-TWinUI/Operational' with 7 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-TWinUI_Operational.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log not older than cutoff: Microsoft-Windows-TZSync/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-TZUtil/Operational
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-TaskScheduler/Maintenance' with 23 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-TaskScheduler_Maintenance.evtx
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-ClientUSBDevices/Admin
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-ClientUSBDevices/Operational
+[2026-08-05 06:17:18] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-LocalSessionManager/Admin
+[2026-08-05 06:17:18] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-TerminalServices-LocalSessionManager/Operational' with 156 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-TerminalServices-LocalSessionManager_Operational.evtx
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-PnPDevices/Admin
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-PnPDevices/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-Printers/Admin
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-Printers/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-RDPClient/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log not older than cutoff: Microsoft-Windows-TerminalServices-RemoteConnectionManager/Admin
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-TerminalServices-RemoteConnectionManager/Operational' with 1052 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-TerminalServices-RemoteConnectionManager_Operational.evtx
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-ServerUSBDevices/Admin
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-ServerUSBDevices/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-SessionBroker-Client/Admin
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-TerminalServices-SessionBroker-Client/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-Time-Service-PTP-Provider/PTP-Operational
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Time-Service/Operational' with 186 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Time-Service_Operational.evtx
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-UAC/Operational
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-UniversalTelemetryClient/Operational' with 107 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-UniversalTelemetryClient_Operational.evtx
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-User Control Panel/Operational
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-User Device Registration/Admin' with 8 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-User_Device_Registration_Admin.evtx
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-User Profile Service/Operational' with 360 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-User_Profile_Service_Operational.evtx
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-User-Loader/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-UserPnp/ActionCenter
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-UserPnp/DeviceInstall' with 9 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-UserPnp_DeviceInstall.evtx
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-VDRVROOT/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-VHDMP-Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-VPN-Client/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-VPN/Operational
+[2026-08-05 06:17:19] [INFO] Skipping log with no events: Microsoft-Windows-VerifyHardwareSecurity/Admin
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-VolumeSnapshot-Driver/Operational' with 90 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-VolumeSnapshot-Driver_Operational.evtx
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-WER-PayloadHealth/Operational' with 5 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-WER-PayloadHealth_Operational.evtx
+[2026-08-05 06:17:19] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-WFP/Operational' with 2 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-WFP_Operational.evtx
+[2026-08-05 06:17:19] [INFO] Skipping log not older than cutoff: Microsoft-Windows-WMI-Activity/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-WMPNSS-Service/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-WPD-ClassInstaller/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-WPD-CompositeClassDriver/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-WPD-MTPClassDriver/Operational
+[2026-08-05 06:17:20] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Wcmsvc/Operational' with 118 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Wcmsvc_Operational.evtx
+[2026-08-05 06:17:20] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-WebAuthN/Operational' with 19 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-WebAuthN_Operational.evtx
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-Win32k/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-WinHttp/Operational
+[2026-08-05 06:17:20] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-WinINet-Config/ProxyConfigChanged' with 3 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-WinINet-Config_ProxyConfigChanged.evtx
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-WinINet/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log not older than cutoff: Microsoft-Windows-WinRM/Operational
+[2026-08-05 06:17:20] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Windows Defender/Operational' with 443 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Windows_Defender_Operational.evtx
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-Windows Defender/WHC
+[2026-08-05 06:17:20] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Windows Firewall With Advanced Security/Firewall' with 439 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Windows_Firewall_With_Advanced_Security_Firewall.evtx
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-Windows Firewall With Advanced Security/FirewallDiagnostics
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-WindowsSystemAssessmentTool/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log not older than cutoff: Microsoft-Windows-WindowsUpdateClient/Operational
+[2026-08-05 06:17:20] [INFO] DRY RUN - would archive and clear log 'Microsoft-Windows-Winlogon/Operational' with 568 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\Microsoft-Windows-Winlogon_Operational.evtx
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-Winsock-WS2HELP/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-Wired-AutoConfig/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-Windows-Workplace Join/Admin
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-WindowsAzure-Diagnostics/Bootstrapper
+[2026-08-05 06:17:20] [INFO] Skipping log not older than cutoff: Microsoft-WindowsAzure-Diagnostics/GuestAgent
+[2026-08-05 06:17:20] [INFO] Skipping log not older than cutoff: Microsoft-WindowsAzure-Diagnostics/Heartbeat
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Microsoft-WindowsAzure-Diagnostics/Runtime
+[2026-08-05 06:17:20] [INFO] Skipping log not older than cutoff: Microsoft-WindowsAzure-Status/GuestAgent
+[2026-08-05 06:17:20] [INFO] Skipping log not older than cutoff: Microsoft-WindowsAzure-Status/Plugins
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: OpenSSH/Admin
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: OpenSSH/Operational
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: SMSApi
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Setup
+[2026-08-05 06:17:20] [INFO] DRY RUN - would archive and clear log 'System' with 2033 records. Archive: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805\System.evtx
+[2026-08-05 06:17:20] [INFO] Skipping log with no events: Windows Azure
+[2026-08-05 06:17:20] [INFO] Skipping log not older than cutoff: Windows PowerShell
+[2026-08-05 06:17:20] [INFO] DRY RUN total records that would be deleted: 16681
+[2026-08-05 06:17:20] [INFO] ======================================================================
+[2026-08-05 06:17:20] [INFO] Summary for mode: Cleanup-DryRun
+[2026-08-05 06:17:20] [INFO] LogsEvaluated: 315
+[2026-08-05 06:17:20] [INFO] LogsTargeted: 65
+[2026-08-05 06:17:20] [INFO] LogsArchived: 0
+[2026-08-05 06:17:20] [INFO] LogsCleared: 0
+[2026-08-05 06:17:20] [INFO] LogsSkippedNoEvents: 223
+[2026-08-05 06:17:20] [INFO] LogsSkippedNotOldEnough: 26
+[2026-08-05 06:17:20] [INFO] LogsSkippedArchiveExists: 0
+[2026-08-05 06:17:20] [INFO] LogsSkippedUnauthorized: 59
+[2026-08-05 06:17:20] [INFO] LogsFailed: 1
+[2026-08-05 06:17:20] [INFO] RecordsPlannedDelete: 16681
+[2026-08-05 06:17:20] [INFO] RecordsDeleted: 0
+[2026-08-05 06:17:20] [INFO] RollbackFilesPlanned: 0
+[2026-08-05 06:17:20] [INFO] RollbackFilesRestored: 0
+[2026-08-05 06:17:20] [INFO] RollbackFilesMissing: 0
+[2026-08-05 06:17:20] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\eventlog-cleanup-20260805-061655.log

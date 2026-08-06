@@ -1,0 +1,10 @@
+[2026-08-05 18:18:40] [INFO] Starting startup-program-auditor.ps1 run.
+[2026-08-05 18:18:40] [INFO] ParameterSet: Audit; DryRun: True
+[2026-08-05 18:18:40] [INFO] WorkingRoot: C:\Users\labuser\Documents\Training\Day3\startup-auditor-work
+[2026-08-05 18:18:40] [INFO] Skipping metadata file: C:\Users\labuser\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[2026-08-05 18:18:40] [INFO] Skipping metadata file: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\desktop.ini
+[2026-08-05 18:18:40] [INFO] Audit item: Name='SecurityHealth' | Source='Local Machine Run Registry Key' | Command='C:\Windows\system32\SecurityHealthSystray.exe' | Status='Enabled'
+[2026-08-05 18:18:40] [INFO] Audit item: Name='AzureArcSetup' | Source='Local Machine Run Registry Key' | Command='C:\Windows\AzureArcSetup\Systray\AzureArcSysTray.exe' | Status='Enabled'
+[2026-08-05 18:18:40] [INFO] Audit item: Name='aw-qt' | Source='All Users Startup Folder' | Command='C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\aw-qt.lnk' | Status='Enabled'
+[2026-08-05 18:18:40] [INFO] DryRun audit completed. No changes were made.
+[2026-08-05 18:18:40] [INFO] Summary totals: Found=3, Disabled=0, Skipped=2, Errors=0

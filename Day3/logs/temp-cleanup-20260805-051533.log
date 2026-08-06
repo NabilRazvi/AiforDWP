@@ -1,0 +1,28 @@
+[2026-08-05 05:15:33] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\temp-file-cleanup-safe.ps1
+[2026-08-05 05:15:33] [INFO] Host: c261-13-1
+[2026-08-05 05:15:33] [INFO] User: labuser
+[2026-08-05 05:15:34] [INFO] Starting cleanup mode.
+[2026-08-05 05:15:34] [INFO] DryRun: True
+[2026-08-05 05:15:34] [INFO] OlderThanDays: 0
+[2026-08-05 05:15:34] [INFO] CutoffDate: 8/5/2026 5:15:33 AM
+[2026-08-05 05:15:34] [INFO] RollbackFolder: C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-051533
+[2026-08-05 05:15:34] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\Day3\cleanup-work\manifests\manifest-20260805-051533.csv
+[2026-08-05 05:15:34] [INFO] Scanning target path: C:\Users\labuser\AppData\Local\Temp\2
+[2026-08-05 05:15:34] [WARN] Locked or unavailable, skipped: C:\Users\labuser\AppData\Local\Temp\2\5435a748-99b3-4482-a652-a925dfe6c629.tmp
+[2026-08-05 05:15:34] [INFO] DRY RUN - would move: C:\Users\labuser\AppData\Local\Temp\2\exthost-3347a8.cpuprofile -> C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-051533\C$\\Users\\labuser\\AppData\\Local\\Temp\\2\\exthost-3347a8.cpuprofile
+[2026-08-05 05:15:34] [INFO] DRY RUN - would move: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\dicts.dat -> C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-051533\C$\\Users\\labuser\\AppData\\Local\\Temp\\2\\gen_py\\3.9\\dicts.dat
+[2026-08-05 05:15:34] [INFO] DRY RUN - would move: C:\Users\labuser\AppData\Local\Temp\2\gen_py\3.9\__init__.py -> C:\Users\labuser\Documents\Training\Day3\cleanup-work\rollback\run-20260805-051533\C$\\Users\\labuser\\AppData\\Local\\Temp\\2\\gen_py\\3.9\\__init__.py
+[2026-08-05 05:15:34] [INFO] Scanning target path: C:\Windows\Temp
+[2026-08-05 05:15:34] [INFO] Manifest written: C:\Users\labuser\Documents\Training\Day3\cleanup-work\manifests\manifest-20260805-051533.csv
+[2026-08-05 05:15:34] [INFO] ======================================================================
+[2026-08-05 05:15:34] [INFO] Summary for mode: Cleanup-DryRun
+[2026-08-05 05:15:34] [INFO] FilesScanned: 4
+[2026-08-05 05:15:34] [INFO] CandidateFiles: 4
+[2026-08-05 05:15:34] [INFO] FilesMovedToRollback: 0
+[2026-08-05 05:15:34] [INFO] FilesRestored: 0
+[2026-08-05 05:15:34] [INFO] FilesSkippedLocked: 1
+[2026-08-05 05:15:34] [INFO] FilesSkippedMissing: 0
+[2026-08-05 05:15:34] [INFO] FilesSkippedInUse: 0
+[2026-08-05 05:15:34] [INFO] FilesSkippedAlreadyExists: 0
+[2026-08-05 05:15:34] [INFO] FilesFailed: 0
+[2026-08-05 05:15:34] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\temp-cleanup-20260805-051533.log

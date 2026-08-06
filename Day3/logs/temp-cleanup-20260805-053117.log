@@ -1,0 +1,18 @@
+[2026-08-05 05:31:17] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\temp-file-cleanup-safe.ps1
+[2026-08-05 05:31:17] [INFO] Host: c261-13-1
+[2026-08-05 05:31:17] [INFO] User: labuser
+[2026-08-05 05:31:17] [INFO] Starting rollback mode.
+[2026-08-05 05:31:17] [INFO] Rollback manifest: C:\Users\labuser\Documents\Training\Day3\cleanup-work\manifests\manifest-YYYYMMDD-HHMMSS.csv
+[2026-08-05 05:31:17] [ERROR] Fatal error: Rollback manifest not found: C:\Users\labuser\Documents\Training\Day3\cleanup-work\manifests\manifest-YYYYMMDD-HHMMSS.csv
+[2026-08-05 05:31:17] [INFO] ======================================================================
+[2026-08-05 05:31:17] [INFO] Summary for mode: Aborted
+[2026-08-05 05:31:17] [INFO] FilesScanned: 0
+[2026-08-05 05:31:17] [INFO] CandidateFiles: 0
+[2026-08-05 05:31:17] [INFO] FilesMovedToRollback: 0
+[2026-08-05 05:31:17] [INFO] FilesRestored: 0
+[2026-08-05 05:31:17] [INFO] FilesSkippedLocked: 0
+[2026-08-05 05:31:17] [INFO] FilesSkippedMissing: 0
+[2026-08-05 05:31:17] [INFO] FilesSkippedInUse: 0
+[2026-08-05 05:31:17] [INFO] FilesSkippedAlreadyExists: 0
+[2026-08-05 05:31:17] [INFO] FilesFailed: 0
+[2026-08-05 05:31:17] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\temp-cleanup-20260805-053117.log

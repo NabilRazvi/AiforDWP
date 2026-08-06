@@ -1,0 +1,27 @@
+[2026-08-05 06:16:08] [INFO] Script path: C:\Users\labuser\Documents\Training\Day3\event-log-archive-cleanup-safe.ps1
+[2026-08-05 06:16:08] [INFO] Host: c261-13-1
+[2026-08-05 06:16:08] [INFO] User: labuser
+[2026-08-05 06:16:08] [INFO] Starting event log cleanup mode.
+[2026-08-05 06:16:08] [INFO] DryRun: True
+[2026-08-05 06:16:08] [INFO] OlderThanDays: 3
+[2026-08-05 06:16:08] [INFO] CutoffDate: 8/2/2026 6:16:08 AM
+[2026-08-05 06:16:08] [INFO] ArchiveDateFolder: C:\Users\labuser\Documents\Training\Day3\eventlog-work\archives\20260805
+[2026-08-05 06:16:08] [INFO] ManifestPath: C:\Users\labuser\Documents\Training\Day3\eventlog-work\manifests\manifest-20260805-061608.csv
+[2026-08-05 06:16:08] [ERROR] Unable to enumerate logs: Could not retrieve information about the Security log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:08] [ERROR] Fatal error: Could not retrieve information about the Security log. Error: Attempted to perform an unauthorized operation..
+[2026-08-05 06:16:08] [INFO] ======================================================================
+[2026-08-05 06:16:08] [INFO] Summary for mode: Aborted
+[2026-08-05 06:16:08] [INFO] LogsEvaluated: 0
+[2026-08-05 06:16:08] [INFO] LogsTargeted: 0
+[2026-08-05 06:16:08] [INFO] LogsArchived: 0
+[2026-08-05 06:16:08] [INFO] LogsCleared: 0
+[2026-08-05 06:16:08] [INFO] LogsSkippedNoEvents: 0
+[2026-08-05 06:16:08] [INFO] LogsSkippedNotOldEnough: 0
+[2026-08-05 06:16:08] [INFO] LogsSkippedArchiveExists: 0
+[2026-08-05 06:16:08] [INFO] LogsFailed: 0
+[2026-08-05 06:16:08] [INFO] RecordsPlannedDelete: 0
+[2026-08-05 06:16:08] [INFO] RecordsDeleted: 0
+[2026-08-05 06:16:08] [INFO] RollbackFilesPlanned: 0
+[2026-08-05 06:16:08] [INFO] RollbackFilesRestored: 0
+[2026-08-05 06:16:08] [INFO] RollbackFilesMissing: 0
+[2026-08-05 06:16:08] [INFO] Log file: C:\Users\labuser\Documents\Training\Day3\logs\eventlog-cleanup-20260805-061608.log

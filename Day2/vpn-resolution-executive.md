@@ -1,0 +1,1 @@
+Your access and data are completely safe — nothing was lost. A routine Windows 11 upgrade caused a temporary issue where the secure remote-access tool stopped working on some devices. Our team identified the cause, fixed the affected machines, and confirmed everything is working normally. No action is needed from you.
